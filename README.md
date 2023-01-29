@@ -1,2 +1,2 @@
 # pseudoRandomNumberGenerator
-PRNG of Dice(1-6) in JS.
+Dice(1-6) in JS using PRNG.
